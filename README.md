@@ -9,13 +9,6 @@ LEONELA TORRES MALAVE
 Cómo ejecutar este 
 proyecto
 
-# Proyecto Final de Programacion Avanzada 1 (PA-1)
-
-Práctica de Programacion Avanzada 1 - UPSE
-
-
-Luis Torres
-
 
 # Cómo ejecutar este proyecto
 
